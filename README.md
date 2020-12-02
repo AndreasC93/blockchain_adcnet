@@ -1,4 +1,4 @@
-# Proof of authourity blockchain_adcnet
+# Proof of Authority blockchain_adcnet
 
 ## adcnet Configuration
 
